@@ -45,7 +45,7 @@ With the following set, show the steps of the binary search as well as the sorti
 
 **Bonus #2**
 
-In either pseudocode or java, write the algotithm for binary search *recursively*. Take a pic of it, or save it in a file.
+In either pseudocode or java, write the algorithm for binary search *recursively*. Take a pic of it, or save it in a file.
 
 #### Deliverable
 
